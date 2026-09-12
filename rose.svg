@@ -26,7 +26,7 @@
 			transform: scale(1);
 		}
 		5% {
-			fill: red;
+			fill: #313538;
 			transform: scale(1.1);
 		}
 		100% {
