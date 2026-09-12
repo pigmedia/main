@@ -22,7 +22,7 @@
 	}
 	@keyframes pulsate {
 		0% {
-			fill: #262626;
+			fill: #d9d9d9;
 			transform: scale(1);
 		}
 		5% {
@@ -30,7 +30,7 @@
 			transform: scale(1.1);
 		}
 		100% {
-			fill: #262626;
+			fill: #d9d9d9;
 			transform: scale(1);
 		}
 	}
